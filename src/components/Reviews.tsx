@@ -40,6 +40,7 @@ type Review = {
   initial: string
   color: string
   more?: boolean
+  img?: string
 }
 
 const reviews: Review[] = [
